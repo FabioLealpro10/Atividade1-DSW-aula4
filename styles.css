@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#cabecalho {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+.destaque {
+    color: darkblue;
+}
+
+p {
+    color: #333;
+    font-size: 16px;
+}
+
+a {
+    color: white;
+    background-color: steelblue;
+    text-decoration: none;
+    padding: 10px 14px;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: darkblue;
+}
+
+.card {
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #035174;
+    margin: 20px auto;
+    background-color: #a4ced8;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.importante {
+    font-weight: bold;
+    color: seagreen ;
+    
+}
+
+.card p {
+line-height: 1.5;
+}
